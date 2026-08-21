@@ -37,9 +37,9 @@ const products = [
 
   
     {
-    title: "Oferta especial — confira o produto",
-    image: "assets/IMG-20260702-WA0059.jpg",
-    link: "https://SEU-LINK-DE-AFILIADO-AQUI.com"
+    title: "Oferta especial — Bike Elétrica Nado C2 1000W",
+    image: "assets/IMG-2026070",
+    link: "https://meli.la/2VTboAV"
   },
   // EXEMPLO:
   // {
