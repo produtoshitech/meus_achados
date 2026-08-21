@@ -24,9 +24,18 @@ const products = [
   },
     {
     title: "Oferta especial — HONEYWHALE M2 Pro",
-    image: "assets/IMG-20260702-WA0059.jpg",
+    image: "assets/Screenshot_20260820-220436_Mercado Livre.png",
     link: "https://meli.la/1wsfiJ6"
   },
+
+
+
+
+
+
+
+
+  
     {
     title: "Oferta especial — confira o produto",
     image: "assets/IMG-20260702-WA0059.jpg",
