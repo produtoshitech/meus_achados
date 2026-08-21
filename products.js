@@ -38,7 +38,7 @@ const products = [
   
     {
     title: "Oferta especial — Bike Elétrica Nado C2 1000W",
-    image: "assets/IMG-2026070",
+    image: "assets/Screenshot_20260820-220950_Mercado Livre.png",
     link: "https://meli.la/2VTboAV"
   },
   // EXEMPLO:
