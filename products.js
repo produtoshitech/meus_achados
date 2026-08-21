@@ -13,9 +13,9 @@
 
 const products = [
   {
-    title: "Oferta especial — confira o produto",
-    image: "assets/produto-1.png",
-    link: "https://SEU-LINK-DE-AFILIADO-AQUI.com"
+    title: "Oferta especial — Honeywhale C1 980W",
+    image: "assets/Screenshot_20260820-215232_Mercado Livre.png",
+    link: "https://meli.la/277g6dH"
   },
   {
     title: "Oferta especial — confira o produto",
