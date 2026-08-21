@@ -78,16 +78,32 @@ const products = [
 
 
 
-
-
-
-    {
+ {
     title: "Oferta especial — Honeywhale S6-s Bicicleta Elétrica Adulto, 750w",
     image: "assets/Screenshot_20260820-224651_Mercado Livre.png",
     link: "https://meli.la/129USUi"
   },
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ {
+    title: "Oferta especial — Kit 2 Vacina De Pneu",
+    image: "assets/Screenshot_20260820-224651_Mercado Livre.png",
+    link: "https://meli.la/1f7Agtc"
+  },
   
 
   
