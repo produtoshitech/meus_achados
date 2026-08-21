@@ -60,7 +60,7 @@ const products = [
 
   {
     title: "Oferta especial —Moto Elétrica HONEYWHALE MT4 com Motor 2000W ",
-    image: "assets/Screenshot_20260820-222626_Mercado Livre.png",
+    image: "assets/Screenshot_20260820-223157_Mercado Livre.png",
     link: "https://meli.la/1z3gRPF"
   },
   
