@@ -19,7 +19,7 @@ const products = [
   },
   {
     title: "Oferta especial — Honeywhale M2 Max-b",
-    image: "assets/produto-1.png",
+    image: "assets/Screenshot_20260820-215830_Mercado Livre.png",
     link: "https://meli.la/2EhY7F4"
   },
     {
