@@ -18,9 +18,9 @@ const products = [
     link: "https://meli.la/277g6dH"
   },
   {
-    title: "Oferta especial — confira o produto",
+    title: "Oferta especial — Honeywhale M2 Max-b",
     image: "assets/produto-1.png",
-    link: "https://SEU-LINK-DE-AFILIADO-AQUI.com"
+    link: "https://meli.la/2EhY7F4"
   },
     {
     title: "Oferta especial — confira o produto",
