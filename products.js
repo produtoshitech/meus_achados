@@ -67,7 +67,7 @@ const products = [
 
     {
     title: "Oferta especial — Honeywhale B20 Bicicleta Elétrica, 440w-35km",
-    image: "assets/Screenshot_20260820-223157_Mercado Livre.png",
+    image: "assets/Screenshot_20260820-223858_Mercado Livre.png",
     link: "https://meli.la/2KF6BmT"
   },
 
