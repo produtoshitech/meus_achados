@@ -49,16 +49,16 @@ const products = [
 
 
 {
-    title: "Oferta especial — Bike Elétrica Nado C2 1000W",
-    image: "assets/Screenshot_20260820-220950_Mercado Livre.png",
-    link: "https://meli.la/2VTboAV"
+    title: "Oferta especial — Honeywhale Bw02 Bicicleta Elétrica Adulto",
+    image: "assets/Screenshot_20260820-220950_Mercado Livreg",
+    link: "https://meli.la/2vHvw5n"
   },
 
   
   // EXEMPLO:
   // {
   //   title: "Nome do segundo produto",
-  //   image: "assets/produto-2.jpg",
-  //   link: "https://seu-link-de-afiliado.com"
+  //   image: "assets/produto-2.jp
+  //oAVoAV: "https://seu-link-de-afiliado.com"
   // }
 ];
