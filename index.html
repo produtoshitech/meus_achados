@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Meus produtos e ofertas recomendadas.">
+  <title>Meus Achados</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="page">
+    <header class="profile">
+      <div class="avatar">🛍️</div>
+      <h1>Meus Achados</h1>
+      <p>Produtos e ofertas que valem a pena conferir 👇</p>
+    </header>
+
+    <section id="products" class="products" aria-label="Produtos"></section>
+
+    <footer>
+      <span>© <span id="year"></span> Meus Achados</span>
+    </footer>
+  </main>
+
+  <script src="products.js"></script>
+  <script>
+    const container = document.getElementById("products");
+
+    products.forEach((product) => {
+      const card = document.createElement("a");
+      card.className = "product-card";
+      card.href = product.link;
+      card.target = "_blank";
+      card.rel = "noopener noreferrer sponsored";
+
+      card.innerHTML = `
+        <img src="${product.image}" alt="${escapeHtml(product.title)}" loading="lazy">
+        <div class="product-info">
+          <h2>${escapeHtml(product.title)}</h2>
+          <span class="cta">Ver oferta <span aria-hidden="true">→</span></span>
+        </div>
+      `;
+
+      container.appendChild(card);
+    });
+
+    document.getElementById("year").textContent = new Date().getFullYear();
+
+    function escapeHtml(text) {
+      return String(text)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+  </script>
+</body>
+</html>
