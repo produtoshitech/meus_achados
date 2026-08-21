@@ -23,9 +23,9 @@ const products = [
     link: "https://meli.la/2EhY7F4"
   },
     {
-    title: "Oferta especial — confira o produto",
+    title: "Oferta especial — HONEYWHALE M2 Pro",
     image: "assets/IMG-20260702-WA0059.jpg",
-    link: "https://SEU-LINK-DE-AFILIADO-AQUI.com"
+    link: "https://meli.la/1wsfiJ6"
   },
     {
     title: "Oferta especial — confira o produto",
