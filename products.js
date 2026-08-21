@@ -101,7 +101,7 @@ const products = [
   
  {
     title: "Oferta especial — Kit 2 Vacina De Pneu",
-    image: "assets/Screenshot_20260820-224651_Mercado Livre.png",
+    image: "assets/Screenshot_20260821-154824_Mercado Livre.png",
     link: "https://meli.la/1f7Agtc"
   },
   
