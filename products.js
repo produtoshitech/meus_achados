@@ -59,10 +59,21 @@ const products = [
 
 
   {
-    title: "Oferta especial — Moto Elétrica HONEYWHALE MT4 com Motor 2000W ",
+    title: "Oferta especial — Moto Elétrica HONEYWHALE MT4 com Motor 2000W",
     image: "assets/Screenshot_20260820-223157_Mercado Livre.png",
     link: "https://meli.la/1z3gRPF"
   },
+
+
+    {
+    title: "Oferta especial — Honeywhale B20 Bicicleta Elétrica, 440w-35km",
+    image: "assets/Screenshot_20260820-223157_Mercado Livre.png",
+    link: "https://meli.la/2KF6BmT"
+  },
+
+
+
+  
   
   // EXEMPLO:
   // {
