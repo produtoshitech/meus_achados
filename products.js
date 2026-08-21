@@ -50,7 +50,7 @@ const products = [
 
 {
     title: "Oferta especial — Honeywhale Bw02 Bicicleta Elétrica Adulto",
-    image: "assets/Screenshot_20260820-220950_Mercado Livreg",
+    image: "assets/Screenshot_20260820-222626_Mercado Livre.png",
     link: "https://meli.la/2vHvw5n"
   },
 
