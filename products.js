@@ -24,7 +24,7 @@ const products = [
   },
     {
     title: "Oferta especial — confira o produto",
-    image: "assets/produto-1.png",
+    image: "assets/IMG-20260702-WA0059.jpg",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI.com"
   },
     {
