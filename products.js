@@ -121,7 +121,7 @@ const products = [
   
  {
     title: "Oferta especial — Bikelete Bicicleta Elétrica 60km/h 500w",
-    image: "assets/Screenshot_20260822-171145_Mercado Livre.png",
+    image: "assets/Screenshot_20260822-191411_Mercado Livre.png",
     link: "https://meli.la/2DujWCG"
   },
   
