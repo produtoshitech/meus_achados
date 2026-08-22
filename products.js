@@ -106,6 +106,17 @@ const products = [
   },
   
 
+
+
+
+  
+ {
+    title: "Oferta especial — Compressor Portátil Car Air",
+    image: "assets/Screenshot_20260821-154824_Mercado Livre.png",
+    link: "https://meli.la/2uCEEGv"
+  },
+  
+  
   
   
   // EXEMPLO:
